@@ -1,5 +1,5 @@
 <h1 align="center">This is a course project for web developement</h1>
-<h3 align="center"> Deng Xiong (Thanks for the help of Hirpara Parthkumar Shirbhate Aishwarya Solanki Kaushal Kumar Jeshwanth)  </h3>
+<h3 align="center"> Deng Xiong Hirpara Parthkumar Shirbhate Aishwarya Solanki Kaushal Kumar Jeshwanth  </h3>
 
 ## Implemented Core Features
 
